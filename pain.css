@@ -1,0 +1,36 @@
+* {font-family: 'Franklin Gothic Medium';
+}
+body{
+    background: rgb(218, 160, 241);
+   
+}
+h1{
+    text-align: center;
+    color :rgb(89, 89, 238);
+}
+p{
+    text-align: center;
+    color: rgb(89, 89, 238);
+    font-size: 20px;
+}
+div{
+    font-size: 30px;
+    position: relative; left: 15px;
+    color:rgb(200, 238, 255);
+}
+.socks{
+    color: rgb(200, 238, 255);
+    position: relative; right:200px;
+}
+.sock{
+    color: rgb(200, 238, 255);
+    position: relative; right:50px;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    size: 5px;
+    width:20em; height:20em;
+    
+}
